@@ -150,12 +150,8 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## Bugs
-No known bugs at this time. 
-
 ## Authors
 Abdulrahman Dauda Gaya - [Github](https://github.com/doudgaya) / [Twitter](https://twitter.com/doudAbdulrahman
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
